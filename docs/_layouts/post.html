@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="{{ page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+  <title>{{ page.title }} — Amber Healing</title>
+  <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
+</head>
+<body>
+<header class="header"><div class="shell header-inner"><a href="{{ '/index.html' | relative_url }}"><img class="logo" src="{{ '/logo-web.png' | relative_url }}" alt="Amber Healing"></a><nav class="nav"><a href="{{ '/index.html' | relative_url }}">Trang chủ</a><a href="{{ '/about.html' | relative_url }}">Về Amber</a><a href="{{ '/innershift.html' | relative_url }}">InnerShift</a><a href="{{ '/course.html' | relative_url }}">E-learning</a><a href="{{ '/coaching.html' | relative_url }}">Coaching 1:1</a><a href="{{ '/stones.html' | relative_url }}">Vòng đá</a><a class="active" href="{{ '/library.html' | relative_url }}">Thư viện</a></nav><div class="header-actions"><a class="pill" href="{{ '/contact.html' | relative_url }}">Đăng ký tư vấn</a><button class="menu-toggle" aria-label="Mở menu" aria-expanded="false">☰</button></div></div></header>
+<nav class="mobile-nav"><a href="{{ '/index.html' | relative_url }}">Trang chủ</a><a href="{{ '/about.html' | relative_url }}">Về Amber</a><a href="{{ '/innershift.html' | relative_url }}">InnerShift</a><a href="{{ '/course.html' | relative_url }}">E-learning</a><a href="{{ '/coaching.html' | relative_url }}">Coaching 1:1</a><a href="{{ '/stones.html' | relative_url }}">Vòng đá</a><a href="{{ '/library.html' | relative_url }}">Thư viện</a><a href="{{ '/contact.html' | relative_url }}">Đăng ký tư vấn</a></nav>
+<main>
+<section class="article-hero"><div class="article-shell"><p class="breadcrumb"><a href="{{ '/library.html' | relative_url }}">Thư viện Amber</a> / {{ page.category }}</p><p class="eyebrow">{{ page.category | default: "Góc nhìn Amber" }}</p><h1>{{ page.title }}</h1><div class="article-meta"><span>{{ page.date | date: "%d.%m.%Y" }}</span><span>{{ page.author | default: "Amber Healing" }}</span>{% if page.reading_time %}<span>{{ page.reading_time }}</span>{% endif %}</div>{% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}</div></section>
+{% if page.cover %}<div class="article-cover article-shell"><img src="{{ page.cover | relative_url }}" alt="{{ page.title }}"></div>{% endif %}
+<article class="article-body article-shell">{{ content }}</article>
+<section class="article-return"><div class="article-shell"><p class="eyebrow">Tiếp tục khám phá</p><h2>Mỗi bài viết là một điểm dừng để hiểu điều đang diễn ra bên trong.</h2><div class="hero-actions"><a class="button" href="{{ '/library.html' | relative_url }}">← Trở về Thư viện</a><a class="pill" href="{{ '/contact.html' | relative_url }}">Kết nối với Amber</a></div></div></section>
+</main>
+<footer class="footer"><div class="shell footer-grid"><div><img class="logo" src="{{ '/logo-web.png' | relative_url }}" alt="Amber Healing"><p>Mọi chuyển hóa bền vững đều bắt đầu từ bên trong.</p></div><div><h4>Khám phá</h4><a href="{{ '/about.html' | relative_url }}">Về Amber</a><a href="{{ '/innershift.html' | relative_url }}">InnerShift</a><a href="{{ '/library.html' | relative_url }}">Thư viện</a></div><div><h4>Kết nối</h4><a href="{{ '/stones.html' | relative_url }}">Vòng đá</a><a href="{{ '/contact.html' | relative_url }}">Đăng ký tư vấn</a></div></div></footer>
+<script src="{{ '/script.js' | relative_url }}"></script>
+</body></html>
