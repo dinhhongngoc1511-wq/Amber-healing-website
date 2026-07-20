@@ -1,0 +1,15 @@
+title: Amber Healing
+url: "https://amberhealing.vn"
+baseurl: ""
+lang: vi
+timezone: Asia/Ho_Chi_Minh
+permalink: /thu-vien/:title/
+markdown: kramdown
+excerpt_separator: "<!--more-->"
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Amber Healing
