@@ -2,3 +2,11 @@
 @media(max-width:680px){.curriculum-item summary{grid-template-columns:34px 1fr;gap:12px}.curriculum-item summary em{grid-column:2}.curriculum-item summary:after{grid-column:3;grid-row:1/3}.curriculum-body{margin-left:46px}.curriculum-body ul{padding-left:18px}}
 .student-orientation{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:34px 0}.student-orientation article{padding:20px;border:1px solid var(--line);background:var(--white)}.student-orientation span{color:var(--gold);font-size:11px;font-weight:700}.student-orientation strong{display:block;margin:20px 0 8px}.student-orientation p{margin:0;color:rgba(48,45,41,.62);font-size:12px;line-height:1.55}.lesson-preview{margin:40px 0}.lesson-preview article{display:grid;grid-template-columns:38px 1fr auto;gap:16px;align-items:center;padding:20px 0;border-bottom:1px solid var(--line)}.lesson-preview article>span{color:var(--gold);font-size:11px;font-weight:700}.lesson-preview h3{font-size:18px}.lesson-preview p{margin:5px 0 0;color:rgba(48,45,41,.62);font-size:13px}.lesson-preview b{padding:6px 10px;border-radius:99px;background:var(--cream);color:rgba(48,45,41,.5);font-size:10px;text-transform:uppercase}
 @media(max-width:680px){.student-orientation{grid-template-columns:1fr 1fr}.lesson-preview article{grid-template-columns:30px 1fr}.lesson-preview b{grid-column:2;width:max-content}}
+
+.amber-method-row{grid-template-columns:repeat(5,1fr);border-color:var(--line)}
+.amber-method-row article{padding:28px 20px}
+.amber-method-row article+article{border-left-color:var(--line)}
+.amber-method-row h3{margin:14px 0 12px;color:var(--gold)}
+.amber-method-row p{margin:0;color:rgba(48,45,41,.68)}
+@media(max-width:980px){.amber-method-row{grid-template-columns:repeat(2,1fr)}.amber-method-row article+article{border-left:0}.amber-method-row article{border-bottom:1px solid var(--line)}}
+@media(max-width:680px){.amber-method-row{grid-template-columns:1fr}.amber-method-row article{padding:24px 0}}
