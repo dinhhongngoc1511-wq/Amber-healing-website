@@ -26,3 +26,39 @@
 .series-nav-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.series-link{display:flex;min-height:142px;padding:24px;border:1px solid var(--line);border-radius:4px 26px 4px 4px;flex-direction:column;justify-content:space-between;transition:.2s}.series-link:hover,.related-card:hover{transform:translateY(-3px);border-color:rgba(203,155,87,.55)}.series-link span{color:var(--gold);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}.series-link strong{font-size:19px;line-height:1.4;font-weight:600}.series-link.next{text-align:right;background:var(--cream)}
 .related-posts{padding:82px 0;background:var(--paper)}.related-head{display:flex;align-items:end;justify-content:space-between;gap:30px;margin-bottom:34px}.related-head h2{font-size:clamp(28px,3vw,40px)}.related-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.related-card{display:flex;min-height:290px;padding:28px;border:1px solid var(--line);background:var(--white);flex-direction:column;transition:.2s}.related-card h3{font-size:22px}.related-card p:not(.eyebrow){color:rgba(48,45,41,.66);font-size:14px;line-height:1.7}.related-card .link{margin-top:auto;padding-top:20px;color:var(--gold);font-size:13px;font-weight:700}
 @media(max-width:680px){.series-nav-grid,.related-grid{grid-template-columns:1fr}.series-nav-grid>div:empty{display:none}.series-link.next{text-align:left}.related-head{align-items:start;flex-direction:column}.related-card{min-height:240px}}
+
+
+/* Article discovery layout v2 */
+.series-nav{padding:56px 0 64px;border-top:1px solid var(--line);background:#fffdf9}
+.series-nav .article-shell{width:min(900px,calc(100% - 48px))}
+.series-nav .eyebrow{margin-bottom:22px}
+.series-nav-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.series-link{position:relative;display:grid;grid-template-rows:auto 1fr;gap:18px;min-height:164px;padding:28px 30px;border:1px solid rgba(85,82,77,.16);border-radius:6px 28px 6px 6px;background:#fbf7f1;box-shadow:0 12px 30px rgba(85,63,42,.06)}
+.series-link:only-child{grid-column:1/-1;min-height:150px;padding-right:84px}
+.series-link:only-child:after{content:"→";position:absolute;right:32px;top:50%;color:var(--gold);font-size:32px;transform:translateY(-50%)}
+.series-link.next{text-align:left;background:linear-gradient(135deg,#f2e6d4,#fbf7f1)}
+.series-link span{display:block;color:var(--gold);font-size:11px;line-height:1.3;font-weight:700;letter-spacing:.13em;text-transform:uppercase}
+.series-link strong{display:block;max-width:660px;font-size:clamp(18px,2vw,24px);line-height:1.35;font-weight:600;letter-spacing:-.01em}
+
+.related-posts{padding:72px 0 88px;background:#f4eadc}
+.related-posts .shell{width:min(1060px,calc(100% - 48px))}
+.related-head{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:32px}
+.related-head .eyebrow{margin-bottom:12px}
+.related-head h2{max-width:560px;font-size:clamp(28px,3.2vw,42px);line-height:1.16}
+.related-head .pill{flex:0 0 auto;min-height:42px;padding-inline:18px}
+.related-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.related-card{display:flex;min-width:0;min-height:300px;padding:26px;border:1px solid rgba(85,82,77,.14);border-radius:5px 24px 5px 5px;background:#fffdf9;box-shadow:0 12px 30px rgba(85,63,42,.05);flex-direction:column}
+.related-card .eyebrow{min-height:28px;margin-bottom:16px;font-size:10px;line-height:1.4}
+.related-card h3{margin:0 0 16px;font-size:clamp(19px,1.75vw,24px);line-height:1.32;letter-spacing:-.015em}
+.related-card h3 a{display:block}
+.related-card p:not(.eyebrow){display:-webkit-box;overflow:hidden;margin:0;color:rgba(48,45,41,.66);font-size:14px;line-height:1.65;-webkit-box-orient:vertical;-webkit-line-clamp:4}
+.related-card .link{display:inline-flex;align-items:center;margin-top:auto;padding-top:22px;color:var(--gold);font-size:12px;font-weight:700;letter-spacing:.04em}
+.article-return{padding:72px 0}
+@media(max-width:760px){
+ .series-nav{padding:42px 0 50px}.series-nav .article-shell,.related-posts .shell{width:min(100% - 40px,900px)}
+ .series-nav-grid,.related-grid{grid-template-columns:1fr}
+ .series-link,.series-link:only-child{grid-column:auto;min-height:138px;padding:23px 24px}
+ .series-link:only-child:after{display:none}
+ .related-posts{padding:58px 0 68px}.related-head{align-items:flex-start;flex-direction:column}.related-head .pill{align-self:flex-start}
+ .related-card{min-height:250px;padding:24px}
+}
