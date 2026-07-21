@@ -1,10 +1,12 @@
 ---
-title: "Vì sao tôi cứ phản ứng như vậy?"
+title: "Phần 1: Vì sao tôi cứ phản ứng như vậy?"
 date: 2026-07-11
 category: "Cảm xúc & hệ thần kinh"
 description: "Có những phản ứng xảy ra nhanh đến mức ta chỉ kịp nhận ra sau khi mọi chuyện đã đi quá xa. Hiểu cơ chế phía sau là bước đầu để bớt trách mình."
 author: "Amber Healing"
 reading_time: "5 phút"
+series: "Từ phản ứng đến lựa chọn"
+series_order: 1
 ---
 
 Có những lúc bạn biết rất rõ mình không muốn nổi nóng, nhưng giọng nói vẫn cao lên. Bạn tự nhủ sẽ không suy nghĩ quá nhiều, nhưng đầu óc vẫn quay lại cùng một câu chuyện. Bạn muốn nói “không”, rồi cuối cùng lại đồng ý vì sợ người khác thất vọng.
@@ -15,12 +17,6 @@ Nhưng nhiều phản ứng không bắt đầu từ một lựa chọn có ý t
 
 Điều đó không có nghĩa là mọi phản ứng đều đúng hoặc ta không cần chịu trách nhiệm. Nó chỉ cho thấy: muốn thay đổi cách mình đáp lại, ta cần hiểu điều gì đã xảy ra trước khoảnh khắc phản ứng.
 
-Bạn có thể bắt đầu bằng ba câu hỏi:
+Trong **Intelligent Heart**, đây là điểm khởi đầu: nhận diện tình huống kích hoạt và quan sát phản ứng mà chưa vội phán xét. Khi nhìn thấy cơ chế của mình, bạn mới có thể bắt đầu tạo ra khoảng trống cho một lựa chọn khác.
 
-- Ngay trước khi phản ứng, cơ thể tôi có dấu hiệu gì?
-- Tôi đang cảm thấy bị đe dọa, bị từ chối hay mất quyền kiểm soát?
-- Phản ứng này đang cố bảo vệ tôi khỏi điều gì?
-
-Khi nhìn được cơ chế, chúng ta bớt coi mình là “có vấn đề”. Khoảng cách nhỏ giữa điều xảy ra và điều ta làm tiếp theo bắt đầu xuất hiện.
-
-Intelligent Heart không hướng đến việc loại bỏ cảm xúc. Hành trình này giúp bạn nhận ra phản ứng, hiểu hệ thần kinh và từng bước mở rộng khả năng lựa chọn. Thay đổi bền vững thường bắt đầu từ một khoảnh khắc rất nhỏ: lần đầu tiên bạn kịp nhìn thấy điều đang diễn ra bên trong mình.
+*Ở Phần 2, chúng ta sẽ nhìn sâu hơn vào vai trò của hệ thần kinh — vì sao đôi khi cơ thể phản ứng dù lý trí biết rằng mình đang an toàn.*
