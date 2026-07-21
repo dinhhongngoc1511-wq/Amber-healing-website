@@ -1,10 +1,12 @@
 ---
-title: "Từ phản ứng vô thức đến lựa chọn có chủ đích"
+title: "Phần 7: Từ phản ứng vô thức đến lựa chọn có chủ đích"
 date: 2026-07-17
 category: "Góc nhìn Amber"
 description: "Mục tiêu của Intelligent Heart không chỉ là biết thêm về cảm xúc, mà là sống khác đi trong những khoảnh khắc đời thường."
 author: "Amber Healing"
 reading_time: "5 phút"
+series: "Từ phản ứng đến lựa chọn"
+series_order: 7
 ---
 
 Bạn có thể hiểu rất nhiều về cảm xúc nhưng vẫn nổi nóng khi bị chạm vào một điểm cũ. Bạn có thể biết cần đặt ranh giới nhưng vẫn nói “được” trước khi kịp nghĩ. Kiến thức quan trọng, nhưng kiến thức chưa tự động trở thành khả năng.
@@ -15,15 +17,8 @@ Lời hứa trung tâm của Intelligent Heart là giúp người học chuyển
 
 Hành trình gồm những lớp rất thực tế:
 
-- Hiểu vì sao một số tình huống dễ kích hoạt mình.
-- Nhận biết dấu hiệu của hệ thần kinh trước khi phản ứng đạt đỉnh.
-- Phân biệt Fight, Flight, Freeze và Fawn trong đời sống.
-- Vẽ bản đồ phản ứng cá nhân.
-- Thực hành Pause – See – Choose.
-- Đưa lựa chọn mới vào mối quan hệ, công việc và cách chăm sóc bản thân.
+**Intelligent Heart Online** dẫn người học qua sáu chương: từ hiểu phản ứng, não bộ và hệ thần kinh; nhận diện Fight, Flight, Freeze, Fawn; xây bản đồ cá nhân; thực hành Pause – See – Choose; đến đưa lựa chọn mới vào đời sống.
 
-Nếu quá trình học chỉ dừng ở việc “nghe rất đúng”, nó chưa hoàn thành. Một thay đổi có ý nghĩa có thể là bạn nhận ra cơ thể đang căng trước khi tranh luận; dám xin thêm thời gian thay vì trả lời ngay; hoặc quay lại sửa chữa một cuộc trò chuyện mà trước đây bạn sẽ bỏ mặc.
+Khóa học không trao một đáp án có sẵn cho mọi vấn đề. Nó giúp bạn xây khả năng tự quan sát, tự hiểu và tự hỗ trợ mình tốt hơn — để trong một cuộc trò chuyện khó, một quyết định quan trọng hay một vòng lặp quen thuộc, bạn có thể sống khác đi một chút.
 
-Những khoảnh khắc ấy không ồn ào, nhưng chúng thay đổi cách một người sống.
-
-Intelligent Heart Online được xây như một hành trình tự học gồm sáu chương, đi từ việc hiểu phản ứng đến đưa lựa chọn mới vào đời sống. Mục tiêu không phải trao thêm một đáp án có sẵn, mà giúp bạn phát triển khả năng tự quan sát, tự hiểu và tự hỗ trợ mình tốt hơn.
+*Đây là điểm kết của series, nhưng có thể là điểm bắt đầu cho việc nhìn lại những phản ứng rất thật trong đời sống của bạn.*
