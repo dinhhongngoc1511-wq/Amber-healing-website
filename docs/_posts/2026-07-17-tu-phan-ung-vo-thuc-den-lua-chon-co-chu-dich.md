@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/letting-go.webp"
+cover_alt: "Tranh đôi tay thả chim trắng bay lên"
 title: "Phần 7: Từ phản ứng vô thức đến lựa chọn có chủ đích"
 date: 2026-07-17
 category: "Cảm xúc & hệ thần kinh"

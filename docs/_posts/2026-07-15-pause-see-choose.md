@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/quiet-water.webp"
+cover_alt: "Tranh cô gái bên mặt nước, núi xanh và đàn chim"
 title: "Phần 5: Pause – See – Choose"
 date: 2026-07-15
 category: "Cảm xúc & hệ thần kinh"

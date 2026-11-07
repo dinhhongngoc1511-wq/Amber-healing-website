@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/nurturing-within.webp"
+cover_alt: "Tranh người tưới hoa đang nở trong ngực"
 title: "Phần 6: Thay đổi không bắt đầu từ việc ép mình"
 date: 2026-07-16
 category: "Cảm xúc & hệ thần kinh"

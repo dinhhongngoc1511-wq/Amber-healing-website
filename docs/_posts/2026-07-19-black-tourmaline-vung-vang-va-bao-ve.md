@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/toward-the-sun.webp"
+cover_alt: "Tranh cô gái đứng trên những viên đá hướng về mặt trời"
 title: "Black Tourmaline – Sự vững vàng và ranh giới"
 date: 2026-07-19
 category: "Đá năng lượng"

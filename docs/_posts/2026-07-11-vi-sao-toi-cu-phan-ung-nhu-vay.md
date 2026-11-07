@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/behind-the-smile.webp"
+cover_alt: "Tranh cô gái cầm tấm giấy có hình mặt cười"
 title: "Phần 1: Vì sao tôi cứ phản ứng như vậy?"
 date: 2026-07-11
 category: "Cảm xúc & hệ thần kinh"

@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/growth-in-time.webp"
+cover_alt: "Tranh đồng hồ cát với mầm cây và sắc xanh"
 title: "Amethyst – Sự tĩnh lặng và nhận thức sâu"
 date: 2026-07-20
 category: "Đá năng lượng"

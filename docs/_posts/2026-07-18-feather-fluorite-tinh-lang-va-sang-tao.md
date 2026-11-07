@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/everyday-flowers.webp"
+cover_alt: "Tranh túi vải trắng đựng hoa vàng"
 title: "Feather Fluorite – Sự tĩnh lặng và sáng tạo tinh tế"
 date: 2026-07-18
 category: "Đá năng lượng"

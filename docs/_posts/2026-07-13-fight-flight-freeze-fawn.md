@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/birds-in-blue.webp"
+cover_alt: "Tranh đôi bàn tay nâng những chú chim trắng trên nền xanh"
 title: "Phần 3: Fight, Flight, Freeze, Fawn"
 date: 2026-07-13
 category: "Cảm xúc & hệ thần kinh"

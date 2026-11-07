@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/a-moment-to-listen.webp"
+cover_alt: "Tranh người ngồi trên mặt đồng hồ bên một bông hoa"
 title: "Phần 4: Bản đồ phản ứng của tôi"
 date: 2026-07-14
 category: "Cảm xúc & hệ thần kinh"

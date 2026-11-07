@@ -1,4 +1,6 @@
 ---
+cover: "/assets/art/holding-your-heart.webp"
+cover_alt: "Tranh người ôm trái tim trên nền hồng"
 title: "Phần 2: Khi hệ thần kinh đang cố bảo vệ bạn"
 date: 2026-07-12
 category: "Cảm xúc & hệ thần kinh"
