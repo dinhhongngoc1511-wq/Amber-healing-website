@@ -1,7 +1,7 @@
 ---
 title: "Phần 7: Từ phản ứng vô thức đến lựa chọn có chủ đích"
 date: 2026-07-17
-category: "Góc nhìn Amber"
+category: "Cảm xúc & hệ thần kinh"
 description: "Mục tiêu của Intelligent Heart không chỉ là biết thêm về cảm xúc, mà là sống khác đi trong những khoảnh khắc đời thường."
 author: "Amber Healing"
 reading_time: "5 phút"

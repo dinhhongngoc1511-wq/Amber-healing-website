@@ -1,7 +1,7 @@
 ---
 title: "Chào mừng bạn đến với Thư viện Amber"
 date: 2026-07-21 06:00:00 +0700
-category: "Góc nhìn Amber"
+category: "Giới thiệu thư viện"
 description: "Nơi Amber Healing chia sẻ những kiến thức và góc nhìn giúp bạn hiểu điều đang diễn ra bên trong mình."
 author: "Amber Healing"
 reading_time: "3 phút đọc"

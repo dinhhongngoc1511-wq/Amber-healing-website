@@ -1,7 +1,7 @@
 ---
 title: "Phần 6: Thay đổi không bắt đầu từ việc ép mình"
 date: 2026-07-16
-category: "Góc nhìn Amber"
+category: "Cảm xúc & hệ thần kinh"
 description: "Có những nỗ lực phát triển bản thân được thúc đẩy bởi sự chối bỏ. Chuyển hóa bền vững cần bắt đầu từ khả năng nhìn mình rõ ràng."
 author: "Amber Healing"
 reading_time: "5 phút"
