@@ -1,4 +1,13 @@
 ---
+gallery:
+  - src: "/assets/stones/lattice-lace-agate-1124.webp"
+    alt: "Lattice Lace Agate của Amber Healing, góc nhìn 1"
+  - src: "/assets/stones/lattice-lace-agate-1121.webp"
+    alt: "Lattice Lace Agate của Amber Healing, góc nhìn 2"
+  - src: "/assets/stones/lattice-lace-agate-1127.webp"
+    alt: "Lattice Lace Agate của Amber Healing, góc nhìn 3"
+  - src: "/assets/stones/lattice-lace-agate-1125.webp"
+    alt: "Lattice Lace Agate của Amber Healing, góc nhìn 4"
 title: "LATTICE LACE AGATE — VỮNG VÀNG · SÁNG RÕ · KẾT NỐI"
 date: 2026-11-12 00:00:00 +0700
 category: "Đá năng lượng"
@@ -19,8 +28,3 @@ Một người bạn đồng hành dành cho những lúc bạn cần bình tâm
 
 Phần mô tả năng lượng này dành riêng cho Lattice Lace Agate do Amber Healing thanh tẩy và kích hoạt bằng phương pháp Reiki.
 
-<div class="stone-photo-gallery" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr));gap:16px;margin:36px 0;">
-<figure style="margin:0;min-width:0;"><img src="{{ '/assets/stones/lattice-lace-agate-1121.webp' | relative_url }}" alt="Ảnh Lattice Lace Agate của Amber Healing, góc nhìn 2" width="787" height="1400" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:8px;"></figure>
-<figure style="margin:0;min-width:0;"><img src="{{ '/assets/stones/lattice-lace-agate-1127.webp' | relative_url }}" alt="Ảnh Lattice Lace Agate của Amber Healing, góc nhìn 3" width="787" height="1400" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:8px;"></figure>
-<figure style="margin:0;min-width:0;"><img src="{{ '/assets/stones/lattice-lace-agate-1125.webp' | relative_url }}" alt="Ảnh Lattice Lace Agate của Amber Healing, góc nhìn 4" width="787" height="1400" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;border-radius:8px;"></figure>
-</div>
