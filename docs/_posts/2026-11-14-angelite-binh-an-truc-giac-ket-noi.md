@@ -1,6 +1,6 @@
 ---
 title: "ANGELITE — BÌNH AN · TRỰC GIÁC · KẾT NỐI"
-date: 2026-11-14 17:30:00 +0700
+date: 2026-11-14 00:01:00 +0700
 category: "Đá năng lượng"
 description: "Angelite mang nét dịu dàng, gắn với sự bình an, trực giác và khả năng kết nối tâm linh theo góc nhìn thực hành năng lượng của Amber."
 author: "Amber Healing"
