@@ -61,7 +61,7 @@
 <main>
 <section class="article-hero"><div class="article-shell"><p class="breadcrumb"><a href="{{ '/library.html' | relative_url }}">Thư viện Amber</a> / {{ page.category }}</p>{% if page.series %}<p class="series-label">Series · {{ page.series }} · Phần {{ page.series_order }}</p>{% else %}<p class="eyebrow">{{ page.category | default: "Góc nhìn Amber" }}</p>{% endif %}<h1>{{ page.title }}</h1><div class="article-meta"><span>{{ page.date | date: "%d.%m.%Y" }}</span><span>{{ page.author | default: "Amber Healing" }}</span>{% if page.reading_time %}<span>{{ page.reading_time }}</span>{% endif %}</div>{% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}</div></section>
 {% if page.gallery %}
-<section class="article-gallery article-shell" aria-label="Ảnh sản phẩm Lattice Lace Agate">
+<section class="article-gallery article-shell" aria-label="Ảnh {{ page.title | escape }}">
 <div class="gallery-track" tabindex="0" aria-label="Vuốt sang trái hoặc dùng phím mũi tên để xem ảnh tiếp theo">
 {% for photo in page.gallery %}<figure class="gallery-slide"><img src="{{ photo.src | relative_url }}" alt="{{ photo.alt | escape }}" width="787" height="1400" {% unless forloop.first %}loading="lazy"{% endunless %} decoding="async"><figcaption>{{ forloop.index }} / {{ page.gallery.size }}</figcaption></figure>{% endfor %}
 </div>
